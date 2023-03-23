@@ -10,11 +10,12 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 ### Code
 
+![armcode](https://user-images.githubusercontent.com/71402974/227213629-6c2abaa0-b986-4f4a-bfa6-a55c35dc4fbc.png)
 
-<iframe src=https://create.arduino.cc/editor/whunt29a/50b7d233-3b2b-4112-8669-5eb6ca663ba6/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+![link to code](https://create.arduino.cc/editor/whunt29a/50b7d233-3b2b-4112-8669-5eb6ca663ba6/preview)
 
 
-[final_project2023_code_copy.zip](https://github.com/willhunt914/robot-arm/files/11018209/final_project2023_code_copy.zip)
+
 
 
 
