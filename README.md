@@ -18,7 +18,7 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 
 
-###Cad
+### Cad
 
 ![potbox](https://user-images.githubusercontent.com/71402974/227217029-ffd1ba36-ef4d-4e06-9d3b-5a103c76c470.png)
 
