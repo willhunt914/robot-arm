@@ -22,6 +22,9 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 ![potbox](https://user-images.githubusercontent.com/71402974/227217029-ffd1ba36-ef4d-4e06-9d3b-5a103c76c470.png)
 
+![potbox2](https://user-images.githubusercontent.com/71402974/227224539-bba4f3fa-2088-41d1-a228-6c1c46b97264.png)
+
+
 This is a photo of our control box. The main problem with this is that we did not add a switch to turn it on or off so we had to drill a hole for it. We also use the wrong tyoe of battery pack so the holes were not in the right spot. 
 
 ### Reflection
