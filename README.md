@@ -34,3 +34,4 @@ we needed to have a more set design and plan before starting to make a onshape d
 having to change little things like the length of the base caused way more pain then they had to if I had spent more time on constraints.
 the key to this project was the bottom servo spinning the top plate which only worked because of the 2mm indent into the side of the base where the spinning top would sit and not get stuck.
 additionally having the support for the servo on the top worked well and made it have easier rotations.
+the friction fit for the supports is crucial because you can use the screw pars but it's just more clunky
