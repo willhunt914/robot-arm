@@ -40,3 +40,8 @@ having to change little things like the length of the base caused way more pain 
 the key to this project was the bottom servo spinning the top plate which only worked because of the 2mm indent into the side of the base where the spinning top would sit and not get stuck.
 additionally having the support for the servo on the top worked well and made it have easier rotations.
 the friction fit for the supports is crucial because you can use the screw pars but it's just more clunky
+
+
+
+
+This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky.
