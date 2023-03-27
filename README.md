@@ -5,7 +5,13 @@
 The goal of this project was to create a robot arm of our choice. We chose to create two, one arm(the control arm) and the main arm.
 The purpose of the control arm was to be able to freely move with those movements being mirrored onto the main arm.
 
-This is an image of our first sketch of the idea where the main arm is on the left anbd the control arm is on the right.
+
+
+[project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
+[potentiometer arm](https://cvilleschools.onshape.com/documents/26724a0d1cc3f933777b73a2/w/c8be2886cf0edbc0002c9e52/e/7b1dabcb93ea528d6ecd88b3)
+[main control arm](https://cvilleschools.onshape.com/documents/d947195b915b6e2e7016d327/w/4f9a6de8badc0e543af7eec6/e/44d2a981b5bbddc248dbdbdc)
+
+This is an image of our first sketch of the idea where the main arm is on the left and the control arm is on the right.
 ![Screenshot 2023-03-19 211744](https://user-images.githubusercontent.com/71402974/226225006-5d60c13c-8965-4f6a-91ba-2bcdef4e319b.png)
 
 ### Code
@@ -15,7 +21,7 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 Cad
 ### description
-this cad was to make the 2 different arms controlled and one would mirror the other.
+This cad was to make the 2 different arms controlled and one would mirror the other.
 it took a long time to import and create all the specialized parts for this project.
 
 ### parts
