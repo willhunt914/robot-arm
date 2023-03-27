@@ -8,7 +8,10 @@ The purpose of the control arm was to be able to freely move with those movement
 
 
 [project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
+
+
 [potentiometer arm](https://cvilleschools.onshape.com/documents/26724a0d1cc3f933777b73a2/w/c8be2886cf0edbc0002c9e52/e/7b1dabcb93ea528d6ecd88b3)
+
 [main control arm](https://cvilleschools.onshape.com/documents/d947195b915b6e2e7016d327/w/4f9a6de8badc0e543af7eec6/e/44d2a981b5bbddc248dbdbdc)
 
 This is an image of our first sketch of the idea where the main arm is on the left and the control arm is on the right.
