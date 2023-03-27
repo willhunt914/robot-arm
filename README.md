@@ -22,10 +22,11 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 [Link to commented code](https://create.arduino.cc/editor/whunt29a/4c440bf3-3f6e-464b-9f79-051cee3a1420/preview)
 
-Cad
-### description
+
+### Cad
+
 This cad was to make the 2 different arms controlled and one would mirror the other.
-it took a long time to import and create all the specialized parts for this project.
+It took a long time to import and create all the specialized parts for this project and fix the small problems.
 
 ### parts
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
@@ -44,4 +45,4 @@ https://user-images.githubusercontent.com/112961434/227224843-bf159035-7eb2-4ac9
 
 ### Reflection
 
-This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky.
+This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky. The code for this project was simple. 
