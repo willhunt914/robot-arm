@@ -26,6 +26,7 @@ This cad was to make the 2 different arms controlled and one would mirror the ot
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
 
 ### parts
+
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
 
@@ -42,4 +43,5 @@ https://user-images.githubusercontent.com/112961434/227224843-bf159035-7eb2-4ac9
 
 ### Reflection
 
-This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky. The code for this project was simple. We just had to copy yhe code from the video.
+This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky. We had a reasource that will had seen last year that definetly inspired our design and code.
+[Bill of Materials](https://docs.google.com/document/d/16xozJZqu8OQpGP3FExhQ4RstVhVjacbFbe7lotb8M0c/edit)
