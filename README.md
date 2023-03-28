@@ -10,9 +10,6 @@ The purpose of the control arm was to be able to freely move with those movement
 [project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
 
 
-[potentiometer arm](https://cvilleschools.onshape.com/documents/26724a0d1cc3f933777b73a2/w/c8be2886cf0edbc0002c9e52/e/7b1dabcb93ea528d6ecd88b3)
-
-[main control arm](https://cvilleschools.onshape.com/documents/d947195b915b6e2e7016d327/w/4f9a6de8badc0e543af7eec6/e/44d2a981b5bbddc248dbdbdc)
 
 This is an image of our first sketch of the idea where the main arm is on the left and the control arm is on the right.
 ![Screenshot 2023-03-19 211744](https://user-images.githubusercontent.com/71402974/226225006-5d60c13c-8965-4f6a-91ba-2bcdef4e319b.png)
@@ -24,10 +21,10 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 
 ### Cad
-
+[Our CAD](https://cvilleschools.onshape.com/documents/bf90ec3826ba51ebac8b4e61/w/538839302e3f33f012450070/e/22efbb674ba50b1db36badc5?renderMode=0&uiState=6422e81ffdb5a62820d41e9a)
 This cad was to make the 2 different arms controlled and one would mirror the other.
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
-https://cvilleschools.onshape.com/documents/bf90ec3826ba51ebac8b4e61/w/538839302e3f33f012450070/e/22efbb674ba50b1db36badc5?renderMode=0&uiState=6422e81ffdb5a62820d41e9a
+
 ### parts
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
