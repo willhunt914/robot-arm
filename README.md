@@ -5,7 +5,7 @@
 The goal of this project was to create a robot arm of our choice. We chose to create two, one arm(the control arm) and the main arm.
 The purpose of the control arm was to be able to freely move with those movements being mirrored onto the main arm.
 
-
+At first, we wanted to have an arm that with list of set motions but we chose to do the arm because it would be easier and have more range.
 
 [project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
 
@@ -19,9 +19,13 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 [Link to commented code](https://create.arduino.cc/editor/whunt29a/4c440bf3-3f6e-464b-9f79-051cee3a1420/preview)
 
+![Screenshot 2023-03-28 093026](https://user-images.githubusercontent.com/71402974/228252989-b7c0f43e-8aea-4967-a957-4554af46a143.png)
+
+
 
 ### Cad
 [Our CAD](https://cvilleschools.onshape.com/documents/bf90ec3826ba51ebac8b4e61/w/538839302e3f33f012450070/e/22efbb674ba50b1db36badc5?renderMode=0&uiState=6422e81ffdb5a62820d41e9a)
+
 This cad was to make the 2 different arms controlled and one would mirror the other.
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
 
