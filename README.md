@@ -27,7 +27,7 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 This cad was to make the 2 different arms controlled and one would mirror the other.
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
-
+https://cvilleschools.onshape.com/documents/bf90ec3826ba51ebac8b4e61/w/538839302e3f33f012450070/e/22efbb674ba50b1db36badc5?renderMode=0&uiState=6422e81ffdb5a62820d41e9a
 ### parts
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
