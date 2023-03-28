@@ -21,6 +21,9 @@ This is an image of our first sketch of the idea where the main arm is on the le
 
 ![Screenshot 2023-03-28 093026](https://user-images.githubusercontent.com/71402974/228252989-b7c0f43e-8aea-4967-a957-4554af46a143.png)
 
+###reflection-code
+The key for this code was making sure that each potentiometer was working and was being combined to the right servo
+
 
 
 ### Cad
