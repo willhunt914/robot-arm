@@ -25,7 +25,7 @@ This is an image of our first sketch of the idea where the main arm is on the le
 Wiring Diagram
 
 ## Reflection-code
-The key for this code was to make sure each potentiometer was working and matched with the correct  servo. We already had most of the code from the [ video](https://www.youtube.com/watch?v=ADJGxOrEZAM) but we did have to make some small adjustments such as deleting a servo and potentiometer so that there would only be three of each. Our main problem was figuring out how to wire up three servos and potentiometers. After we figured out the correct pins, we had no other problems with the code and wiring. Originally, all of the wires on the project were black but I learned to always make your wires different colors.
+The key for this code was to make sure each potentiometer was working and matched with the correct  servo. We already had most of the code from the [ video](https://www.youtube.com/watch?v=ADJGxOrEZAM) but we did have to make some small adjustments such as deleting a servo and potentiometer so that there would only be three of each. Our main problem was figuring out how to wire up three servos and potentiometers. After we figured out the correct pins, we had no other problems with the code and wiring. Originally, all of the wires on the project were black but I learned to always make your wires different colors. I also learned that with a project that involves more than one servo it is important to lable them.
 
 
 
