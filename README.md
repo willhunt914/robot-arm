@@ -33,7 +33,7 @@ This cad was to make the 2 different arms controlled and one would mirror the ot
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
 
 [Bill of Materials](https://docs.google.com/document/d/16xozJZqu8OQpGP3FExhQ4RstVhVjacbFbe7lotb8M0c/edit)
-### parts
+### Parts
 
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 
@@ -51,7 +51,7 @@ Potentiometers were very impotant and made it easy to control the other arm
 
 ![potbox2](https://user-images.githubusercontent.com/71402974/227958276-ce8e863f-e08a-4715-b48b-66288aed2072.png)
 
-Showcases the battery pack being put onto the side.
+Showcases the battery pack on the side.
 
 
 
