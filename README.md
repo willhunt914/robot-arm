@@ -31,6 +31,7 @@ The key for this code was making sure that each potentiometer was working and wa
 
 This cad was to make the 2 different arms controlled and one would mirror the other.
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
+
 [Bill of Materials](https://docs.google.com/document/d/16xozJZqu8OQpGP3FExhQ4RstVhVjacbFbe7lotb8M0c/edit)
 ### parts
 
