@@ -15,7 +15,7 @@ This is an image of our first sketch of the idea where the main arm is on the le
 ![Screenshot 2023-03-19 211744](https://user-images.githubusercontent.com/71402974/226225006-5d60c13c-8965-4f6a-91ba-2bcdef4e319b.png)
 
 ### Code
-![code](https://github.com/willhunt914/robot-arm/assets/71402974/dbdd93a9-8351-45c9-ae75-656e1235b813)
+![Screenshot 2023-05-09 095243](https://github.com/willhunt914/robot-arm/assets/71402974/a2f8742b-f18d-43ed-aa0a-726e9783a6e9)
 
 [Link to code](https://create.arduino.cc/editor/whunt29a/50b7d233-3b2b-4112-8669-5eb6ca663ba6/preview?embed)
 
