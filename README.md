@@ -7,6 +7,7 @@ The purpose of the control arm was to be able to freely move with those movement
 
 At first, we wanted to have an arm that with list of set motions but we chose to do the arm because it would be easier and have more range.
 
+
 [Project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
 
 
