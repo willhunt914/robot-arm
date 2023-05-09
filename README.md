@@ -38,6 +38,7 @@ It took a long time to import and create all the specialized parts for this proj
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 
 This picture shows where the crucial servos were and how they were held.
+I made the bottom cylinder a bit smaller than the servo and that led to some balance issues.
 
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
 
