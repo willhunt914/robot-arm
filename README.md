@@ -31,25 +31,25 @@ The key for this code was making sure that each potentiometer was working and wa
 
 This cad was to make the 2 different arms controlled and one would mirror the other.
 It took a long time to import and create all the specialized parts for this project and fix the small problems.
-
+[Bill of Materials](https://docs.google.com/document/d/16xozJZqu8OQpGP3FExhQ4RstVhVjacbFbe7lotb8M0c/edit)
 ### parts
 
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 
-This picture shows where the crucial servos were and how they were held
+This picture shows where the crucial servos were and how they were held.
 
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
 
 Showcases the rotational top
-(these pieces took up most of the time to make)
+(these pieces took up most of the time to make).
 
 ![potbox](https://user-images.githubusercontent.com/71402974/227958262-530b202b-4562-46d9-b482-a1db8d583f7c.png)
 
-potentiometers were very impotant and made it easy to control the other arm
+Potentiometers were very impotant and made it easy to control the other arm
 
 ![potbox2](https://user-images.githubusercontent.com/71402974/227958276-ce8e863f-e08a-4715-b48b-66288aed2072.png)
 
-showcases the battery pack being put onto the side
+Showcases the battery pack being put onto the side.
 
 
 
@@ -60,5 +60,5 @@ https://user-images.githubusercontent.com/112961434/227224843-bf159035-7eb2-4ac9
 
 ### Reflection
 
-This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky. We had a reasource that will had seen last year that definetly inspired our design and code. 
-[Bill of Materials](https://docs.google.com/document/d/16xozJZqu8OQpGP3FExhQ4RstVhVjacbFbe7lotb8M0c/edit)
+This CAD project was difficult due to the many changes we made, which required us to change everything. We should have had a more solid design and plan before starting to create the Onshape design, as it ended up taking much longer. Having to change little things like the length of the base caused unnecessary pain if I had spent more time on constraints. The key to this project was the bottom servo spinning the top plate, which only worked because of the 2mm indent on the side of the base where the spinning top would sit and not get stuck. Additionally, having the support for the servo on top worked well and made rotations easier. The friction fit for the supports is crucial, as using screw parts would be more clunky. I learned that time is very valuable and you shouldn't waste any of it. I also learned to double check all my cad parts and always think about the way they were gonna move and where they would go in the real world and to think more logically.
+
