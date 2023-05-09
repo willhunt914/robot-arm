@@ -56,7 +56,7 @@ Showcases the battery pack being put onto the side.
 
 https://user-images.githubusercontent.com/112961434/227224843-bf159035-7eb2-4ac9-9c8f-ca8d8eb70522.MOV
 
-
+This is a video of when we first got the code to work.
 
 ### Reflection
 
