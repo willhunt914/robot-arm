@@ -1,13 +1,13 @@
 # Robot Arm 
 
-### goal/planning
+### Goal/Planning
 
 The goal of this project was to create a robot arm of our choice. We chose to create two, one arm(the control arm) and the main arm.
 The purpose of the control arm was to be able to freely move with those movements being mirrored onto the main arm.
 
 At first, we wanted to have an arm that with list of set motions but we chose to do the arm because it would be easier and have more range.
 
-[project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
+[Project plan](https://docs.google.com/document/d/1N13CiAop0agVnEHup3wdvLUEAzarODgKqOfmiuRUrMs/edit)
 
 
 
@@ -36,11 +36,11 @@ It took a long time to import and create all the specialized parts for this proj
 
 ![eng pic2](https://user-images.githubusercontent.com/112961434/227220598-65dfcce3-c781-40ae-aae1-faba7a894844.PNG)
 
-this picture shows where the crucial servos were and how they were held
+This picture shows where the crucial servos were and how they were held
 
 ![eng pic1](https://user-images.githubusercontent.com/112961434/227220630-3b72993f-f43c-4720-bd10-081a5fd84e2f.PNG)
 
-showcases the rotational top
+Showcases the rotational top
 (these pieces took up most of the time to make)
 
 ![potbox](https://user-images.githubusercontent.com/71402974/227958262-530b202b-4562-46d9-b482-a1db8d583f7c.png)
