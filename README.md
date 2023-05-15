@@ -50,7 +50,7 @@ Showcases the rotational top
 
 ![potbox](https://user-images.githubusercontent.com/71402974/227958262-530b202b-4562-46d9-b482-a1db8d583f7c.png)
 
-Potentiometers were very impotant and made it easy to control the other arm
+Potentiometers were very impotant and made it easy to control the other arm.
 
 ![potbox2](https://user-images.githubusercontent.com/71402974/227958276-ce8e863f-e08a-4715-b48b-66288aed2072.png)
 
